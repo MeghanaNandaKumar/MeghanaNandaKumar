@@ -49,3 +49,14 @@ Food blogging
 Gardening
 Guitar
 Content creation at meghsphotosvideosetc on @instagram 
+
+
+Now onto GitHub's Readme template:
+- 🔭 I’m currently working on Firstbyte's website development
+- 🌱 I’m currently learning iOS development using Swift and Swift UI
+- 👯 I’m looking to collaborate on front-end development & iOS projects, crypto, and UX UI design on Figma
+- 🤔 I’m looking for help with learning Data structures and Algorithms
+- 💬 Ask me about my interests and my transition from copywriting to software development - you'll be in for a ride
+- 📫 How to reach me: nandakumar.me@northeastern.edu or one of my socials
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I know a little about everything
