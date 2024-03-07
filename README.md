@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## Seeking Opportunities
 
-   🔍 Actively ** seeking summer 2024 internship opportunities ** in front-end development areas.
+   🔍 Actively **seeking summer 2024 internship opportunities** in front-end development areas.
 
 ## 😎 📹 🪴 Other Expertise
 
