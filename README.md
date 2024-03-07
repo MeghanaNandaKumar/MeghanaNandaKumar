@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Technical Expertise
 
-   🔍 Experience with _ Copywriting
+   🔍 Experience with _Copywriting
 
    🔍 Intersection of Web Development, UI/UX design, Product Development, and iOS Development.
 
