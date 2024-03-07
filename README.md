@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## Technical Expertise
 
-   🔍 Experience with _Copywriting
+   🔍 Experience with _Copywriting_
 
-   🔍 Intersection of Web Development, UI/UX design, Product Development, and iOS Development.
+   🔍 Intersection of _Web Development, UI/UX design, Product Development, and iOS Development_.
 
 ## Professional Experience
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## Seeking Opportunities
 
-   🔍 Actively seeking summer 2024 internship opportunities in front-end development areas.
+   🔍 Actively seeking _summer 2024 internship opportunities_ in front-end development areas.
 
 ## 😎 📹 🪴 Other Expertise
 
