@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Education
 
-   🎓 Master of Science in Information Systems, Northeastern University, Boston, USA
+   📍 Master of Science in Information Systems, Northeastern University, Boston, USA (Expected to graduate in December '25)
 
    🎓 Bachelor of Electrical and Electronics Engineering, SVCE, Sriperumbudur, India
 
