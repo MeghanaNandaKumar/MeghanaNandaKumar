@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my interests and my transition from copywriting to software development - you'll be in for a ride
 - 📫 How to reach me: nandakumar.me@northeastern.edu or via one of my socials
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I know a little about everything
+- ⚡ Fun fact: I like learning a little about everything but I also believe there is not enough time in the world for it
