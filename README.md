@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I know a little about everything
 -->
 
-# I am Meghana Nanda Kumar ☁
+# I am Meghana Nanda Kumar 
 
    I am a Front-End Engineer in the making, combining creativity and code to deliver user-focused experiences. I have developed a strong understanding of marketing and business concepts over the years and they have helped me build tech projects and products that have been a delight to create and share 🚀 
 
