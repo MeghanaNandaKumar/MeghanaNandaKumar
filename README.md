@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
    * Guitar
 
-   * Content creation at _meghsphotosvideosetc_ on @instagram 
+   * Content creation at [_meghsphotosvideosetc_] (https://www.instagram.com/meghsphotosvideosetc/?hl=en) on @instagram 
 
 
 
