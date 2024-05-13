@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## Seeking Opportunities
 
-   🔍 Actively **seeking summer 2024 internship opportunities** in front-end development and UX UI design.
+   🔍 Actively **seeking Summer and Fall 2024 internship opportunities** in front-end development, UX UI and product design.
 
 ## 😎 📹 🪴 Other Expertise
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
    * Guitar
 
-   * Content creation at [meghsphotosvideosetc](https://www.instagram.com/meghsphotosvideosetc/?hl=en) on @instagram 
+   * Content creation at [meghsphotosvideosetc](https://www.instagram.com/meghsphotosvideosetc/?hl=en) on Instagram 
 
 
 
