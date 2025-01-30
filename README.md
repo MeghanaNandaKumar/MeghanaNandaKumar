@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 
 ## Professional Experience
 
-   💡 📈 Copywriter in Marketing & Advertising. 
+   💡 Product designer in the tech and healthcare industries.
+   
+   📈 Copywriter in Marketing & Advertising. 
    
    👩‍💻 Graduate Teaching Assistant for User Experience Design and Testing course at Northeastern University.
 
