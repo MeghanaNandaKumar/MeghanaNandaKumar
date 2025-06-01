@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Education
 
-   📍 Master of Science in Information Systems, Northeastern University, Boston, USA (Expected to graduate in December '25)
+   📍 Master of Science in Information Systems, Northeastern University, Boston, USA 
 
    🎓 Bachelor of Electrical and Electronics Engineering, SVCE, Sriperumbudur, India
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Professional Experience
 
-   💡 Product designer in the tech and healthcare industries.
+   💡 Product designer in healthcare (Eden).
    
    📈 Copywriter in Marketing & Advertising. 
    
