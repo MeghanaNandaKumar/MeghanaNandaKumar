@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## Seeking Opportunities
 
-   🔍 Actively **seeking Summer and Fall 2024 internship opportunities** in front-end development, UX UI and product design.
+   🔍 Actively **seeking Summer and Fall 2024 internship opportunities** in front-end development, UX UI, and product design.
 
 ## 😎 📹 🪴 Other Expertise
 
