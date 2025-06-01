@@ -45,17 +45,13 @@ Here are some ideas to get you started:
 
 ## Seeking Opportunities
 
-   🔍 Actively **seeking Summer and Fall 2024 internship opportunities** in front-end development, UX UI, and product design.
+   🔍 Actively looking to help teams out with front-end development, UI UX design + research, and product design projects.
 
 ## 😎 📹 🪴 Other Expertise
 
    * Photography
 
    * Video-editing
-
-   * Food blogging
-
-   * Gardening
 
    * Guitar
 
